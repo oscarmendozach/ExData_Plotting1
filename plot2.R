@@ -1,4 +1,4 @@
-#This plot is a line plot with x = Date and y = Global Active Power, labels withe the names of the day.
+#This plot is a line plot with x = Date_Time and y = Global Active Power.
 
 #First read the data in the .txt file
 
